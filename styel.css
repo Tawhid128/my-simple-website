@@ -1,0 +1,146 @@
+*{
+    margin: 10px;
+    padding: 20px;;
+        font-family: 'Work Sans', 
+        sans-serif;}
+
+    .main-title{
+        color: #FFF;
+text-align: right;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+    }
+
+.main-description{
+    text-align: right;
+    font-size: 16px;
+    color: #fff;
+}
+
+.header{
+    width: 1600px;
+height: 808px;
+flex-shrink: 0;
+    display: flex;
+    /* justify-content: flex-end; */
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url('/images/banner/banner3.png');
+   background-size: cover;
+
+   background: url(<path-to-image>),  cover no-repeat;
+
+}
+
+.btn-primary{
+    width: 180px;
+    height: 70px;
+    flex-shrink: 0;
+    color: #005FAC;
+/* text-align: right; */
+font-size: 25px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+background-position: right;
+border-radius: 5px;
+    }
+    .main-title2{
+        display: flex;
+width: 288px;
+font-size: 45px;
+/* flex-direction: column; */
+/* flex-shrink: 0; */
+    }
+    .title-2{
+        font-size: 45px;
+        text-align: justify;
+    }
+.pragraph{
+    color: var(--dark-02, #444343);
+    font-size: 24px;
+    font-weight: 400;
+    
+    
+    text-align: justify;
+
+    display: flex;
+width: 416px;
+flex-direction: column;
+flex-shrink: 0;
+
+}
+
+   .paragraph-2{
+    color: var(--dark-02, #444343);
+font-family: Work Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px
+   }
+   .hedline{
+    color: var(--dark-01, #151414);
+text-align: center;
+font-family: Work Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+   }
+   .{
+    text-align: center;
+    color: var(--dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 50px;
+   }
+   .headline{
+    text-align: center;
+    color: var(--dark-01, #151414);
+    font-family: Work Sans;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 50px;
+   }
+   
+
+.skill-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 49.7px;
+    padding: 0px 120px;}
+    .skill-name {
+text-align: center;
+    }
+    .banner{
+        padding: 0px 120px;
+    border-radius: 8px;
+    background:url('images/watch.png'),
+        linear-gradient(90deg, #005FCA 0%, rgba(241, 91, 34, 0.00) 100%);
+        
+        background-size: cover;
+        height: 300px;
+        padding: 0px 120px;
+        margin: 124px 166px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    /* background-blend-mode: overlay; */
+    background-blend-mode: overlay;
+    }
+    .banner-hedline{
+        font-size: 40px;
+        color: #FFF;
+        /* text-align: justify; */
+    }
+    
+    
